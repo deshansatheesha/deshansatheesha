@@ -116,20 +116,18 @@
 <div align="center" >
   
 <a href="mailto:deshansathisha9@gmail.com" target="_blank">
-<img src="./gmail.png" width=40 height=40 alt="deshansathisha9@gmail.com" style="margin-right: 30px;" />
+<img src="./gmail.png" width=40 height=40 alt="deshansathisha9@gmail.com" margin-right=30 />
+</a><img width="25" />
+<a href="https://www.instagram.com/deshan_s_wijesinghe" target="_blank" >
+<img src="./instagram.png" width=40 height=40 alt="Instargram" margin-right=30 />
 </a>
-
-<a href="https://www.instagram.com/deshan_s_wijesinghe" target="_blank" style=" margin-right: 30px; ">
-<img src="./instagram.png" width=40 height=40 alt="Instargram" />
-</a>
-
+<img width="25" />
 <a href="https://github.com/deshansatheesha" target="_blank">
-<img src="./github.png" width=40 height=40 alt="Github" style=" margin-right: 30px;" />
+<img src="./github.png" width=40 height=40 alt="Github" margin-righ=30 />
 </a>
-
+<img width="25" />
 <a href="https://www.linkedin.com/in/deshan-satheesha" target="_blank">
-<img src="./linkedin.png" width=40 height=40 alt="linkedin" style=" margin-right: 30px;" />
+<img src="./linkedin.png" width=40 height=40 alt="linkedin" margin-right=30 />
 </a>
-
 </div>
 <br/>
