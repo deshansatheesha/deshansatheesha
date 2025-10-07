@@ -112,9 +112,16 @@
 
 ---
 <!--Contact Section--> 
-
+<style>
+  .mar{
+    gap: 30px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+  }
+</style>
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center" style="gap: 30px; display: flex;align-items: center;justify-content: center;">
+<div align="center" class="mar">
   
 <a href="mailto:deshansathisha9@gmail.com" target="_blank">
 <img src="./gmail.png" width=40 height=40 alt="deshansathisha9@gmail.com" style="margin-bottom: 5px; margin-right: 30px;" />
