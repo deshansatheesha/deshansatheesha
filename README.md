@@ -114,22 +114,22 @@
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+<div align="center" style="gap: 30px; display: flex;align-items: center;justify-content: center;">
   
 <a href="mailto:deshansathisha9@gmail.com" target="_blank">
-<img src="./gmail.png" width=40 height=40 alt="deshansathisha9@gmail.com" style="margin-bottom: 5px; margin-left: 10px;" />
+<img src="./gmail.png" width=40 height=40 alt="deshansathisha9@gmail.com" style="margin-bottom: 5px; margin-right: 30px;" />
 </a>
 
 <a href="https://www.instagram.com/deshan_s_wijesinghe" target="_blank">
-<img src="./instagram.png" width=40 height=40 alt="Instargram" style="margin-bottom: 5px; margin-left: 10px;" />
+<img src="./instagram.png" width=40 height=40 alt="Instargram" style="margin-bottom: 5px; margin-right: 30px;" />
 </a>
 
 <a href="https://github.com/deshansatheesha" target="_blank">
-<img src="./github.png" width=40 height=40 alt="Github" style="margin-bottom: 5px; margin-left: 10px;" />
+<img src="./github.png" width=40 height=40 alt="Github" style="margin-bottom: 5px; margin-right: 30px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/deshan-satheesha" target="_blank">
-<img src="./linkedin.png" width=40 height=40 alt="linkedin" style="margin-bottom: 5px; margin-left: 10px;" />
+<img src="./linkedin.png" width=40 height=40 alt="linkedin" style="margin-bottom: 5px; margin-right: 30px;" />
 </a>
 
 </div>
