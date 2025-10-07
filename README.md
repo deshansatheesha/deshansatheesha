@@ -48,17 +48,16 @@
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
   
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 <!--Github stats Table--> 
@@ -117,15 +116,15 @@
   
 <a href="mailto:deshansathisha9@gmail.com" target="_blank">
 <img src="./gmail.png" width=40 height=40 alt="deshansathisha9@gmail.com" margin-right=30 />
-</a><img width="25" />
+</a><img width="20" />
 <a href="https://www.instagram.com/deshan_s_wijesinghe" target="_blank" >
 <img src="./instagram.png" width=40 height=40 alt="Instargram" margin-right=30 />
 </a>
-<img width="25" />
+<img width="20" />
 <a href="https://github.com/deshansatheesha" target="_blank">
 <img src="./github.png" width=40 height=40 alt="Github" margin-righ=30 />
 </a>
-<img width="25" />
+<img width="20" />
 <a href="https://www.linkedin.com/in/deshan-satheesha" target="_blank">
 <img src="./linkedin.png" width=40 height=40 alt="linkedin" margin-right=30 />
 </a>
