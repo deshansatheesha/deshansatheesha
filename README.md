@@ -7,7 +7,9 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Deshan Satheesha! 
+<div align="start"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'm+Deshan+Satheesha...;Welcome+to+My+GitHub+Profile..." alt="Typing SVG" /></a></a></div>
+
+
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -24,8 +26,8 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deshansatheesha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+<p align="left" >
+  <img src="https://komarev.com/ghpvc/?username=deshansatheesha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="deshansatheesha" style="padding-right:20px;" />
 </p>
 
 ---
@@ -34,7 +36,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" width="450px">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
@@ -47,6 +49,12 @@
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
   
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -108,39 +116,21 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:deshansathisha9@gmail.com" target="_blank">
+<img src="./gmail.png" width=40 height=40 alt="deshansathisha9@gmail.com" style="margin-bottom: 5px; margin-left: 10px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/deshan_s_wijesinghe" target="_blank">
+<img src="./instagram.png" width=40 height=40 alt="Instargram" style="margin-bottom: 5px; margin-left: 10px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://github.com/deshansatheesha" target="_blank">
+<img src="./github.png" width=40 height=40 alt="Github" style="margin-bottom: 5px; margin-left: 10px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/deshan-satheesha" target="_blank">
+<img src="./linkedin.png" width=40 height=40 alt="linkedin" style="margin-bottom: 5px; margin-left: 10px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
